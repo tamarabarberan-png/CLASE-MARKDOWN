@@ -144,7 +144,62 @@ Checkbox:
 
 ### DEMOCRATIZACIÓN DEL CREATIVE CODING: 
 
-**Software Libre: 
+**Software Libre:**
+* El software libre nace formalmente en 1983, cuando Richard Stallman anunció el inicio del Proyecto GNU.
+* La idea del proyecto era crear un sistema operativo libre.
+* En 1985 se publica el Manifiesto GNU y se funda la Free Software Foundation (FSF).
+* Este movimiento surgió como respuesta a la creciente privatización del software.
+
+  * **Buscan garantizar 4 libertades esenciales:**
+    1. Libertad 0 (Uso): La libertad de ejecutar el programa como se desee, con cualquier propósito.
+    2. Libertad 1 (Estudio): La libertad de estudiar cómo funciona el programa y cambiarlo para que haga lo que el usuario quiera. El acceso al código fuente es una condición necesaria.
+    3. Libertad 2 (Distribución): La libertad de redistribuir copias para ayudar a otros.
+    4.  Libertad 3 (Mejora): La libertad de mejorar el programa y hacer públicas las mejoras, para que toda la comunidad se beneficie. El acceso al código fuente es necesario.
+
+  * **Principios fundamentales adicionales de la FSF:**
+    1. Libertad, no precio: El software libre es una cuestión de libertad de los usuarios de computadores, no de precio.
+    2. Copyleft: Se promueve la distribución bajo términos de copyleft, que garantizan que el software y sus versiones modificadas sigan siendo libres.
+    3. Lucha contra restricciones: Campañas activas contra patentes de software, Gestión Digital de Restricciones (DRM) y otras amenazas a la libertad de los usuarios.
+    4. Desarrollo del proyecto GNU: Fomento del desarrollo de un sistema operativo completamente libre.
+
+| Free Software (Software Libre) | Open Source (Código Abierto) | |
+| :--- | :---: | ---: |
+| Ético y Social. Se trata de derechos y libertades morales. | Práctico y Técnico. Se trata de una metodología de desarrollo eficiente. | 
+| La libertad del usuario es lo más importante. | La calidad del software y la colaboración son lo más importante. | 
+| "Libertad" El usuario debe tener el control de su informática.| "Colaboración". El código abierto permite que más ojos revisen errores y mejoren el producto. | 
+| El software privativo (propietario) se considera un problema ético o antisocial. | El software privativo es aceptable, pero el modelo abierto se considera técnicamente superior. |
+| FSF (Free Software Foundation). | OSI (Open Source Initiative). | 
+| Richard Stallman (Fundador de GNU). | Eric S. Raymond / Bruce Perens. |
+
+**Design By Numbers:**
+* Experimento educativo radical, Lanzado en 1999 por John Maeda en el MIT Media Lab.
+* Consistía en un lenguaje de programación y entorno diseñado específicamente para enseñar a diseñadores visuales a programar.
+  * Todo el espacio de trabajo era una cuadrícula fija de 100x100 píxeles.
+  * No había colores RGB complejos. Solo existía el "porcentaje de tinta".0 era blanco (papel vacío) y 100 era negro total.
+  * Maeda eliminó los puntos y comas, las llaves {} complejas y las declaraciones de tipos de variables. El código se leía fácilmente: Line 10 10 90 90 (Dibuja una línea de x10,y10 a x90,y90).
+
+**John Maeda:**
+* Intersección Tecnología + Arte + Diseño.
+* Director Aesthetics and Computation Group (ACG) en el MIT Media Lab.
+* Presidente de la (2008 - 2013) Rhode Island School of Design (RISD).
+* Vicepresidente de Diseño e IA en Microsoft.
+* Creador de Designed by numbers.
+
+**Processing:**
+* Software libre, de código abierto y gratuito, diseñado para la enseñanza de programación en contextos visuales.
+* Permite a artistas, diseñadores y principiantes crear gráficos, animaciones e interacciones.
+* Disponible para Windows, macOS y Linux.
+* Creado en el MIT Medialab por 2 estudiantes de John Maeda; Ben Fry y Casey Reas, en el año 2001.
+* Quisieron expandir las limitaciones de Design by Numbers (DBN).
+* Agregaron la paleta de color y el tamaño variable.
+* Mantuvieron la simplicidad en la sintaxis en el código y la idea del “Sketchbook”.
+
+**P5.Js de Lauren Mccarthy:**
+* Es una herramienta online MUY amigable para aprender a programar y hacer arte.
+* Es una biblioteca de JavaScript libre y de código abierto construida por una comunidad inclusiva y solidaria.
+* Prioriza la accesibilidad, la inclusión, la comunidad y la alegría.
+* Hace que dibujar con código sea tan intuitivo como dibujar en un cuaderno.
+* Admite obras audiovisuales, interactivas y experimentales para la web.
 
  
 
