@@ -81,7 +81,71 @@ Checkbox:
 
 **Maquina Analítica:1834-1837**
 * fue diseñada para realizar cualquier tipo de cálculo establecido anteriormente y para tener una capacidad de análisis aún mayor que la Máquina Diferencial original.
-* Fue considera la primeramáquina de cálculo completamente automática. 
+* Fue considera la primeramáquina de cálculo completamente automática.
+
+  **Sus componentes:**
+  1. El Molino-The Mill: La CPU o Procesador, donde se hacen las operaciones.
+  2. El Almacén-The Store: La Memoria, donde se guardan los números y datos.
+  3. Las Tarjetas perforadas-Punch card system : El Software, entrada de datos e instrucciones.
+
+**Telar de Jacquard: 1801**
+* Primer sistema de almacenamiento de información binaria.
+* El telar usaba un sistema de tarjetas perforadas para lograr diseños o dibujos complejos y automatizados.
+* Si había agujero: La varilla pasaba, el gancho se activaba y levantaba el hilo
+* Si NO había agujero: La varilla chocaba contra la tarjeta, el gancho no se movía y el hilo se quedaba abajo.
+
+  **Introdujo tres conceptos fundamentales:**
+  1. La separación entre hardware y software
+  2. El sistema binario
+  3. El píxel y la imagen rasterizada
+
+**Ada Lovelace: "La primera programadora" 1815-1852**
+* Fue una matemática y escritora británica.
+* Pionera en el campo de la programación.
+* Colaboró con Charles Babbage en la invención de la máquina analítica, un dispositivo precursor de los computadores modernos.
+* Lady Ada Lovelace entendió el potencial revolucionario de las cartas, comprendió que esas tarjetas permitían a la máquina manipular cualquier símbolo, inventando así conceptualmente la programación que conocemos hoy.
+* Entre 1842 y 1843, incluyó un conjunto de algoritmos diseñado específicamente para su implementación en un “computador”, para que la máquina calculase una serie de números de Bernoulli en un artículo del ingeniero italiano Luigi Menabrea sobre la máquina analítica de Babbage.
+
+**La máquina de Turing: 1936**
+* Fue definida por el matemático inglés Alan Turing como una «máquina automática» en 1936.
+* No es una máquina física.
+* Turing imaginó una cinta infinita, un cabezal que lee/escribe símbolos, y un conjunto de reglas (estados).
+* Define la Computabilidad Universal.
+* Demostró que una máquina simple, con las instrucciones correctas, puede simular a cualquier otra máquina.
+* El hardware se vuelve irrelevante; lo que importa es el código (las instrucciones).
+
+### EL DESPERTAR VISUAL:
+
+**Artistas y algoritmos:
+* En 1960 se empezó a crear arte con la computadora.
+* Artistas como Vera Molnár, Manfred Mohr, Georg Nees, Frieder Nake y Lillian Schwartz en EE.UU y EU, Hiroshi Kawano y Computer Technique Group en Japon y Waldemar Cordeiro en Brazil, se encuentran entre los pioneros del llamado "Arte computacional".
+
+**Exposición Cybernetic Serendipity: Londres 1968**
+* Fue una exposición de arte cibernético.
+* Se mostró en el Instituto de Arte Contemporáneo de Londres.
+* Algunas de sus piezas se centraban en algoritmos y dispositivos que generban música, otras mostraban notación musical generada por ordenadores etc.
+
+**John & James Whitney**
+* Fueron pioneros en el trabajo con Computer Graphics Animation.
+* Whitney recuperó un computador analógico de la Segunda Guerra Mundial y lo modificó.
+* En lugar de calcular trayectorias para derribar aviones, convirtió los voltajes en movimientos de cámara y luz para pintar sobre celuloide.
+* Introducen el concepto de Diseño Paramétrico y Movimiento Armónico.
+
+**Sketchpad Ivan Sutherland: 1963**
+* Sutherland creó el primer programa informático que permitía dibujar directamente en una pantalla usando un lápiz óptico.
+* Este sistema introdujo la manipulación directa de objetos gráficos, pionero en la interacción humano -computador (HCI).
+* sentaron las bases de los programas de diseño asistido por computador que conocemos hoy.
+* Introduce la Programación Orientada a Objetos (POO) de forma visual.
+
+  **1968, Douglas Engelbart:**
+  * Concepto de Bitmapping
+  * Ventanas
+  * Manipulación directa mediante un mouse
+
+### DEMOCRATIZACIÓN DEL CREATIVE CODING: 
+
+**Software Libre: 
+
  
 
 
